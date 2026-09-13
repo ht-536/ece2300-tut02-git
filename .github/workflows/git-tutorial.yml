@@ -1,4 +1,4 @@
-name: Git Tutorial
+ename: Git Tutorial
 
 # Run this workflow everytime code is pushed to GitHub
 on: [push]
